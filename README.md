@@ -1,7 +1,3 @@
-Chắc chắn rồi! Dưới đây là phiên bản README đã được "trang trí" lại bằng cách sử dụng các yếu tố định dạng của Markdown như biểu tượng (emoji), tiêu đề, danh sách, và các khối trích dẫn để làm cho nội dung trở nên trực quan, hấp dẫn và dễ đọc hơn trên GitHub.
-
-Bạn chỉ cần sao chép và dán nội dung này vào file README.md của mình.
-
 <div align="center">
 
 🎓 Nền tảng Giáo dục Machine Learning 🎓
