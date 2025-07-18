@@ -1,4 +1,4 @@
-#🎓 Nền tảng Giáo dục Machine Learning
+🎓 #Nền tảng Giáo dục Machine Learning
 
 Khám phá thế giới Machine Learning một cách trực quan và dễ hiểu, với các ví dụ thực tế và đồ thị tương tác.
 
